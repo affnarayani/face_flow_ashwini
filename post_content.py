@@ -200,9 +200,10 @@ def run():
     if not IMAGE_PATH.exists():
         print(f"[ERROR] Image path '{IMAGE_PATH}' par koi file nahi mili. Exiting...", flush=True)
         sys.exit(1)
-
+    
     # 3. Load cookies and format post structure
     cookies = load_cookies(Path(FACEBOOK_COOKIES_FILE))
+
     post_caption = build_post_text()
 
     # =========================
@@ -233,7 +234,6 @@ def run():
         print("[STEP] Opening Facebook Profile/Page...", flush=True)
         page.goto("https://www.facebook.com/AdvocateAshwiniPatna/")
         time.sleep(random.randint(4, 8))
-
         # Profile switch handle if modal appears
         try:
             if page.get_by_role("button", name="Switch Now").is_visible():
@@ -283,10 +283,10 @@ def run():
         time.sleep(random.randint(8, 15))
 
         # Dynamic dismissal for optional integrated WhatsApp hooks
-        btn = page.get_by_role("button", name="Not now")
+        btn = page.get_by_role("button", name="Not now").or_(page.get_by_role("button", name="Publish Original Post"))
         if btn.count(): 
             btn.first.click()
-            print("[STEP] Dismissed WhatsApp link layout prompt...", flush=True)
+            print("[STEP] Dismissed Post Post layout prompt...", flush=True)
             time.sleep(random.randint(4, 8))
 
         print("✅ Posted successfully to Facebook Feed!", flush=True)
