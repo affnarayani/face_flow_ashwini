@@ -1,0 +1,6 @@
+playwright
+requests
+python-dotenv
+cryptography
+playwright-stealth
+yt-dlp
