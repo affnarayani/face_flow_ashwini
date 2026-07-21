@@ -281,7 +281,7 @@ def run():
         
         page.get_by_role("button", name="Post", exact=True).click()
         print("[STEP] Clicking Post...", flush=True)
-        time.sleep(random.randint(8, 15))
+        time.sleep(random.randint(15, 30))
 
         # Dynamic dismissal for optional integrated WhatsApp hooks
         btn = page.get_by_role("button", name="Not now").or_(page.get_by_role("button", name="Publish Original Post"))
