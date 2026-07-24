@@ -30,7 +30,10 @@
         "posted": true
     },
     {
-        "topic": "Right to repair - an emerging consumer law debate in India"
+        "topic": "Right to repair - an emerging consumer law debate in India",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "Is the right to legal aid actually accessible to the poor"
