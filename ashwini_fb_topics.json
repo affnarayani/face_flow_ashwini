@@ -54,7 +54,10 @@
         "posted": true
     },
     {
-        "topic": "Counter cases - how men are responding legally"
+        "topic": "Counter cases - how men are responding legally",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "Platform vs user rights in social media account deactivation disputes"
