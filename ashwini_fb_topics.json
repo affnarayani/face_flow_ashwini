@@ -108,7 +108,10 @@
         "posted": true
     },
     {
-        "topic": "Sextortion cases - filing a complaint without public exposure"
+        "topic": "Sextortion cases - filing a complaint without public exposure",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "Compulsory waiting period before promotion - is it legally valid"
