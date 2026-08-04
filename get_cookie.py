@@ -2,6 +2,7 @@ import json
 import os
 import sys
 import time
+import random
 from dotenv import load_dotenv
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 from playwright_stealth import Stealth
@@ -70,10 +71,13 @@ def save_cookies(context):
 # -------------------- LOGIN --------------------
 def perform_login(page, email, password):
     page.goto(FACEBOOK_URL, wait_until="domcontentloaded")
-
+    time.sleep(random.uniform(6, 12))
     page.get_by_role("textbox", name="Email address or mobile number").fill(email)
+    time.sleep(random.uniform(6, 12))
     page.get_by_role("textbox", name="Password").fill(password)
+    time.sleep(random.uniform(6, 12))
     page.get_by_role("button", name="Log in").click()
+    time.sleep(random.uniform(6, 12))
 
 
 # -------------------- WAIT LOGIN --------------------
