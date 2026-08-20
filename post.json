@@ -1,14 +1,14 @@
 {
-    "title": "Voice cloning fraud - legal remedies for victims",
-    "p1": "A call from your family member's voice may not always be from them.\n\nWith AI, a few seconds of audio can now be used to create a fake voice that sounds surprisingly real.",
-    "p2": "Many people think voice cloning fraud is only a technology problem. But victims may have legal options too.\n\nThe surprising part: a fraudster using a cloned voice does not get legal protection just because AI was involved. The act can still fall under laws related to cheating, identity misuse, and cybercrime.",
-    "p3": "If you become a victim, preserve evidence like call recordings, messages, transaction details, and screenshots. Report the incident quickly through cybercrime reporting channels and inform your bank if money is involved.\n\nThe key lesson: AI can copy a voice, but it cannot erase accountability. Acting fast can make a major difference in tracing the fraud and protecting your rights.",
-    "conclusion": "Do you think people are prepared enough to handle frauds where even a loved one's voice can be digitally copied?",
+    "title": "Post-dated cheques as security - the legal complications explained",
+    "p1": "Think a cheque marked “security” can never lead to a cheque-bounce case? That assumption can be costly.",
+    "p2": "A post-dated cheque given as security is not automatically outside Section 138 of the Negotiable Instruments Act. The real question is what the cheque represented when it was presented for payment. If a legally enforceable debt or liability had become due, a dishonoured cheque may still trigger legal consequences—even if it was originally handed over as security.",
+    "p3": "This is where many business arrangements become complicated. A cheque may be given upfront to secure repayment, performance, or another obligation. If the underlying liability later crystallises and the cheque is presented against that liability, simply calling it a “security cheque” may not be enough to defeat a cheque-bounce claim. The surrounding agreement, the actual liability, and the circumstances of presentation can all matter. The practical takeaway? Never treat a post-dated security cheque as legally harmless paperwork. The terms of the underlying transaction matter just as much as the cheque itself.",
+    "conclusion": "If you received a post-dated cheque only as security, would you assume you were protected—or would you first examine when and why it could legally be presented?",
     "keywords": [
-        "VoiceCloningFraud",
-        "CyberCrimeAwareness",
-        "DigitalFraud",
-        "LegalRemedies",
-        "OnlineSafety"
+        "ChequeBounce",
+        "NegotiableInstrumentsAct",
+        "Section138",
+        "BusinessLaw",
+        "LegalAwareness"
     ]
 }

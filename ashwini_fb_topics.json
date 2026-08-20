@@ -222,7 +222,10 @@
         "posted": true
     },
     {
-        "topic": "Post-dated cheques as security - the legal complications explained"
+        "topic": "Post-dated cheques as security - the legal complications explained",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "Kidnapping vs abduction - a distinction most people get wrong"
