@@ -276,7 +276,10 @@
         "posted": true
     },
     {
-        "topic": "Maintenance for live-in partners - the legal position today"
+        "topic": "Maintenance for live-in partners - the legal position today",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "Receiver appointment in property disputes - when courts allow it"
