@@ -330,7 +330,10 @@
         "posted": true
     },
     {
-        "topic": "Legal accountability mechanisms in custodial death cases"
+        "topic": "Legal accountability mechanisms in custodial death cases",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "Interest rate disputes on delayed possession - the calculation method"
