@@ -324,7 +324,10 @@
         "posted": true
     },
     {
-        "topic": "What makes a chain of circumstantial evidence conviction-worthy"
+        "topic": "What makes a chain of circumstantial evidence conviction-worthy",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "Legal accountability mechanisms in custodial death cases"
