@@ -342,7 +342,10 @@
         "posted": true
     },
     {
-        "topic": "What happens to pending litigation once a resolution plan is approved"
+        "topic": "What happens to pending litigation once a resolution plan is approved",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "Digital signatures - their legal validity in court proceedings"
