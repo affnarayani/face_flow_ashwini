@@ -348,7 +348,10 @@
         "posted": true
     },
     {
-        "topic": "Digital signatures - their legal validity in court proceedings"
+        "topic": "Digital signatures - their legal validity in court proceedings",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "Second marriage during pendency of divorce - the legal consequences"

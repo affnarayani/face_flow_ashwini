@@ -1,14 +1,14 @@
 {
-    "title": "What happens to pending litigation once a resolution plan is approved",
-    "p1": "A company wins a resolution process… but what happens to all the court cases already hanging over it? Many assume those cases simply continue. The reality can be very different after a resolution plan gets approved.",
-    "p2": "A common misconception is that approval only changes ownership or management. In many cases, the approved plan decides how past claims and pending disputes will be handled. Creditors and claimants may not be able to continue old battles in the same way as before.",
-    "p3": "Once a resolution plan is approved under insolvency law, it becomes binding on stakeholders. This means the new owner typically gets a cleaner slate, while unresolved claims are dealt with according to the plan. The surprising part? A pending lawsuit does not always mean a future liability survives unchanged. The outcome depends on whether the claim was included and how the plan addresses it. For businesses, investors, and claimants, checking the resolution plan carefully can prevent costly surprises.",
-    "conclusion": "Did you know approval of a resolution plan can change the future of pending litigation? What impact do you think this has on fairness for claimants?",
+    "title": "Digital signatures - their legal validity in court proceedings",
+    "p1": "Can a document signed online really stand in court? Many people still believe only a handwritten signature has legal value. But in today's digital world, that assumption is no longer true.",
+    "p2": "A digital signature is not just a typed name or an image of a signature. It uses secure technology to verify who signed the document and whether the document was changed after signing. This is what gives it legal strength.",
+    "p3": "Courts can consider digitally signed documents as valid evidence when they meet legal requirements and their authenticity can be established. The key point is not whether the signature is on paper, but whether the signing process can be trusted. For businesses, contracts, filings, and agreements, digital signatures can save time while still protecting legal rights.",
+    "conclusion": "Would you trust a digitally signed agreement as much as a paper document signed with a pen? Share your view.",
     "keywords": [
-        "InsolvencyLaw",
-        "ResolutionPlan",
-        "CorporateLaw",
-        "LegalAwareness",
-        "BusinessRestructuring"
+        "DigitalSignature",
+        "ElectronicDocuments",
+        "CyberLaw",
+        "LegalValidity",
+        "CourtProceedings"
     ]
 }
