@@ -378,7 +378,10 @@
         "posted": true
     },
     {
-        "topic": "Consent management - practical compliance steps for companies"
+        "topic": "Consent management - practical compliance steps for companies",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "Injunction applications - how to actually get an ex-parte order"
