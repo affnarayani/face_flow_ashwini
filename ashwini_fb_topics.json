@@ -390,7 +390,10 @@
         "posted": true
     },
     {
-        "topic": "Industrial dispute reference - the process before the labour court"
+        "topic": "Industrial dispute reference - the process before the labour court",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "Drafting a winning injunction application - the key elements"
