@@ -1,14 +1,14 @@
 {
-    "title": "Drafting a winning injunction application - the key elements",
-    "p1": "A weak injunction application can lose before the real dispute even begins.\n\nMany believe the strongest argument wins, but courts often look first at something else: whether the application clearly shows why immediate protection is needed.",
-    "p2": "A common mistake is treating an injunction request like a detailed version of the main case. In reality, it is about urgency, balance, and preventing harm that may be difficult to undo later.\n\nThe key is connecting the facts with the risk. A court needs to see what harm may happen, why waiting is dangerous, and why the requested protection is reasonable.",
-    "p3": "A well-drafted injunction application usually focuses on three things: a clear right that needs protection, a genuine risk of damage, and a practical solution that does not unfairly affect the other side.\n\nThe strongest applications do not just ask for an order — they explain why the order is necessary at that moment.",
-    "conclusion": "What do you think makes an injunction application persuasive: strong legal arguments, clear facts, or proving urgency?",
+    "title": "Significant data fiduciary classification - who actually gets covered",
+    "p1": "Not every company handling personal data becomes a Significant Data Fiduciary.\n\nBut the ones that do face a much higher level of responsibility.",
+    "p2": "A common misconception is that size alone decides who gets classified. The reality is more nuanced. Under India’s Digital Personal Data Protection framework, factors like the volume and sensitivity of data handled, risks to individuals, impact on national interests, and the scale of processing can influence this classification.",
+    "p3": "A Significant Data Fiduciary is essentially an organisation whose data practices can create larger consequences for people. Such entities may need stronger safeguards, appoint specific compliance roles, conduct audits, and take additional steps to protect personal information.\n\nThe key takeaway: collecting more data does not automatically make an organisation significant. The real question is the potential impact of how that data is used.",
+    "conclusion": "Do you think companies handling large amounts of personal data should face stricter obligations, or should the rules depend more on the actual risk involved?",
     "keywords": [
-        "InjunctionLaw",
-        "CivilLitigation",
-        "LegalDrafting",
-        "CourtPractice",
-        "LegalAwareness"
+        "DataProtection",
+        "DigitalPersonalData",
+        "PrivacyLaw",
+        "DPDPAct",
+        "CyberSecurity"
     ]
 }
