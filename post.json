@@ -1,14 +1,14 @@
 {
-    "title": "Significant data fiduciary classification - who actually gets covered",
-    "p1": "Not every company handling personal data becomes a Significant Data Fiduciary.\n\nBut the ones that do face a much higher level of responsibility.",
-    "p2": "A common misconception is that size alone decides who gets classified. The reality is more nuanced. Under India’s Digital Personal Data Protection framework, factors like the volume and sensitivity of data handled, risks to individuals, impact on national interests, and the scale of processing can influence this classification.",
-    "p3": "A Significant Data Fiduciary is essentially an organisation whose data practices can create larger consequences for people. Such entities may need stronger safeguards, appoint specific compliance roles, conduct audits, and take additional steps to protect personal information.\n\nThe key takeaway: collecting more data does not automatically make an organisation significant. The real question is the potential impact of how that data is used.",
-    "conclusion": "Do you think companies handling large amounts of personal data should face stricter obligations, or should the rules depend more on the actual risk involved?",
+    "title": "Cyber insurance claims - what policies actually cover",
+    "p1": "A cyber attack can shut down a business overnight. But here’s the surprising part: having cyber insurance does not always mean every loss gets paid.",
+    "p2": "Many people think cyber insurance only covers hackers stealing data. In reality, policies may cover things like breach response costs, customer notification expenses, legal support, data recovery, and sometimes business losses caused by downtime.",
+    "p3": "The catch? Coverage depends on the exact policy wording. Some claims are rejected because businesses missed security requirements, delayed reporting the incident, or assumed a risk was covered when it was excluded. The practical takeaway: don’t just buy cyber insurance — review what events trigger coverage, what costs are included, and what obligations you must follow after an attack.",
+    "conclusion": "Have you ever checked what your cyber insurance policy actually covers, or did you assume it protects against every cyber risk?",
     "keywords": [
-        "DataProtection",
-        "DigitalPersonalData",
-        "PrivacyLaw",
-        "DPDPAct",
-        "CyberSecurity"
+        "CyberInsurance",
+        "DataSecurity",
+        "CyberRisk",
+        "BusinessProtection",
+        "DigitalSafety"
     ]
 }
