@@ -432,7 +432,10 @@
         "posted": true
     },
     {
-        "topic": "Deepfake regulation - is India drafting a dedicated law"
+        "topic": "Deepfake regulation - is India drafting a dedicated law",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "International child custody disputes - India's evolving position"

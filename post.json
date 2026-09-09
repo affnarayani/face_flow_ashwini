@@ -1,14 +1,14 @@
 {
-    "title": "Operational vs financial creditor - why the distinction actually matters",
-    "p1": "Not every person or company that is owed money stands on the same side of the law.\n\nA supplier and a bank may both be creditors, but the outcome for them can be very different when a company faces insolvency.",
-    "p2": "Many assume that all creditors get equal treatment. That is the surprising part: the law separates creditors based on the nature of their claim.\n\nA financial creditor usually gives money as a loan or investment, while an operational creditor is someone who provides goods or services and is waiting for payment.",
-    "p3": "This difference matters because financial creditors often play a key role in deciding the future of a distressed company, including evaluating resolution plans. Operational creditors, such as suppliers or service providers, have different rights and priorities under the insolvency process.\n\nA simple invoice dispute and a major loan default may both involve unpaid money, but they are not treated the same way.",
-    "conclusion": "Did you know that a supplier owed money and a bank owed money can have very different rights during insolvency? What do you think should decide creditor priority?",
+    "title": "Deepfake regulation - is India drafting a dedicated law",
+    "p1": "A video of a public figure says something shocking. Millions watch it. But what if the person never said those words? The biggest challenge of deepfakes is not creating fake content — it is making people doubt what is real.",
+    "p2": "Many believe India already has a complete deepfake law. The reality is different. Existing rules under IT laws and criminal provisions can address some misuse, but there is still debate around whether India needs a dedicated framework specifically for AI-generated fake videos, audio, and images.",
+    "p3": "A dedicated law would not only focus on punishment. It may also need clear rules for detection, platform responsibility, consent, and protection against identity misuse. One surprising point: even genuine videos can become less trustworthy when people know deepfakes are easy to create. The practical lesson is simple — digital evidence may need stronger verification before being believed or shared.",
+    "conclusion": "Do you think India should create a separate deepfake law, or are existing legal tools enough to handle this growing threat?",
     "keywords": [
-        "InsolvencyLaw",
-        "IBC",
-        "BusinessLaw",
-        "CorporateFinance",
-        "LegalAwareness"
+        "DeepfakeRegulation",
+        "ArtificialIntelligence",
+        "CyberLaw",
+        "DigitalRights",
+        "IndiaTechLaw"
     ]
 }
