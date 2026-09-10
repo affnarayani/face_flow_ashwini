@@ -444,7 +444,10 @@
         "posted": true
     },
     {
-        "topic": "Grievance redressal timelines under the new data law"
+        "topic": "Grievance redressal timelines under the new data law",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "Drafting an effective reply to a GST show cause notice"
