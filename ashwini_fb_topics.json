@@ -462,7 +462,10 @@
         "posted": true
     },
     {
-        "topic": "Cyberbullying of minors - legal remedies parents should know"
+        "topic": "Cyberbullying of minors - legal remedies parents should know",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "How courts actually evaluate expert and forensic witness testimony"
