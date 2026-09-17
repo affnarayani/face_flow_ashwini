@@ -1,14 +1,14 @@
 {
-    "title": "Unregistered sale agreements - the enforceability questions",
-    "p1": "A signed property sale agreement feels like a guarantee. But what happens when that agreement was never registered? Many buyers discover this question only when a dispute appears.",
-    "p2": "A common misconception is that an unregistered sale agreement is automatically worthless. The reality can be more complex. In many situations, such an agreement may still show that both parties had a deal, but it may not provide the same legal strength or benefits as a properly registered document.",
-    "p3": "The key point is that signing a paper and having a legally protected transaction are not always the same thing. Registration rules, the type of property, and the purpose for which the document is being used can change the outcome. A small step like checking registration requirements before signing can prevent major problems later.",
-    "conclusion": "Have you ever come across an unregistered sale agreement? Do you think a signed document should always be enough to protect the buyer?",
+    "title": "SIM swap fraud - liability of banks and telecom companies",
+    "p1": "Your phone suddenly stops showing network. Minutes later, money starts disappearing from your bank account. Could someone really take control of your number without touching your phone?\n\nSIM swap fraud works by criminals getting a duplicate SIM issued using your identity details and then receiving your calls and OTPs.",
+    "p2": "Many people think banks are always responsible for such losses. The reality is more complex. Liability may depend on whether the bank, telecom company, or customer failed to follow required security measures.\n\nA surprising fact: once a SIM is swapped, criminals may not need your banking password if they can intercept verification messages.",
+    "p3": "Banks are expected to use proper security systems, while telecom companies must follow procedures before issuing replacement SIMs. Customers also play a role by reporting unusual network loss quickly and avoiding sharing personal information.\n\nThe key takeaway: losing mobile connectivity unexpectedly can be a financial warning sign, not just a technical issue.",
+    "conclusion": "Do you think banks and telecom companies should automatically compensate victims of SIM swap fraud, or should responsibility be shared based on who failed to prevent the misuse?",
     "keywords": [
-        "PropertyLaw",
-        "RealEstate",
-        "LegalAwareness",
-        "PropertyRights",
-        "SaleAgreement"
+        "SIMSwapFraud",
+        "CyberSecurity",
+        "BankingFraud",
+        "DigitalSafety",
+        "ConsumerRights"
     ]
 }
