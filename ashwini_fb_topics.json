@@ -558,7 +558,10 @@
         "posted": true
     },
     {
-        "topic": "Consent manager framework - a new compliance layer explained"
+        "topic": "Consent manager framework - a new compliance layer explained",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "Acid attack cases - sentencing trends in Indian courts"
