@@ -618,7 +618,10 @@
         "posted": true
     },
     {
-        "topic": "Cab aggregator accident liability - who's actually responsible legally"
+        "topic": "Cab aggregator accident liability - who's actually responsible legally",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "Cyber harassment at the workplace - overlap with sexual harassment law"
