@@ -630,7 +630,10 @@
         "posted": true
     },
     {
-        "topic": "E-contracts - what actually makes them valid in court"
+        "topic": "E-contracts - what actually makes them valid in court",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "Compulsory retirement on integrity grounds - the evidentiary standard"
