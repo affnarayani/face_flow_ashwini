@@ -1,14 +1,14 @@
 {
-    "title": "E-contracts - what actually makes them valid in court",
-    "p1": "A contract signed with a click can still be stronger than a paper agreement.\n\nBut what actually makes an e-contract stand up in court?",
-    "p2": "Many people think a digital signature alone is what gives an online contract legal value. That is the surprising part: the signature is only one piece of the puzzle.\n\nCourts usually look at whether both sides agreed, whether the terms were clear, and whether there is proof that the person actually accepted those terms.",
-    "p3": "An email approval, clicking “I agree,” or signing through an online platform can create a valid contract when there is proper evidence of consent and a reliable record of the transaction.\n\nThe real strength of an e-contract is not just the electronic signature — it is the digital trail showing who agreed, what they agreed to, and when it happened.\n\nBefore accepting any online agreement, always check the terms you are agreeing to. A quick click today can create legal obligations tomorrow.",
-    "conclusion": "Have you ever clicked “I agree” without reading an online contract? Do you think digital agreements should be treated the same as paper contracts?",
+    "title": "Compulsory retirement on integrity grounds - the evidentiary standard",
+    "p1": "Can an employee be compulsorily retired without a criminal conviction?\n\nMany people assume misconduct must always be proven like a criminal case. But service law often works differently.",
+    "p2": "A surprising point: compulsory retirement on integrity grounds is generally not a punishment after a criminal trial. It is an administrative decision based on whether the employee's continued service is considered against public interest.",
+    "p3": "The evidence standard is not the same as proving guilt beyond reasonable doubt. Authorities usually examine the overall record, including complaints, past conduct, inquiries, and material showing doubts about integrity. The decision cannot be based on mere rumours or vague allegations; there must be relevant material supporting the conclusion.\n\nThe practical takeaway: a clean acquittal in a criminal case does not automatically erase every service-related concern, because the questions being examined may be different.",
+    "conclusion": "Do you think service decisions based on integrity concerns should require the same level of proof as a criminal conviction, or should administrative standards be different?",
     "keywords": [
-        "EContracts",
-        "DigitalSignature",
-        "ContractLaw",
-        "LegalTech",
-        "BusinessLaw"
+        "ServiceLaw",
+        "AdministrativeLaw",
+        "PublicService",
+        "IntegrityStandards",
+        "LegalAwareness"
     ]
 }
