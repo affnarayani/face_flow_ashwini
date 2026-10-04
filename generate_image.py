@@ -192,19 +192,27 @@ def update_image_status_in_json(topic_text: str):
         json.dump(topics, f, indent=4, ensure_ascii=False)
     print("[OK] Image status successfully updated (image_generated=True) in ashwini_fb_topics.json", flush=True)
 
-def upload_to_tmpfiles(screenshot_path):
-    url = "https://tmpfiles.org/api/v1/upload"
+def upload_to_onlyfiles(screenshot_path, expire=172800):
+    url = "https://api.onlyfiles.com/v1/upload"
     
     with open(screenshot_path, "rb") as file:
-        response = requests.post(url, files={"file": file})
+        response = requests.post(
+            url,
+            files={"file": (Path(screenshot_path).name, file, "image/png")},
+            data={"expire": str(expire)},
+        )
         
     if response.status_code == 200:
         res_data = response.json()
-        # Direct view URL banane ke liye '/dl/' replace karte hain
-        page_url = res_data["data"]["url"]
-        direct_url = page_url.replace("tmpfiles.org/", "tmpfiles.org/dl/")
-        print(f"👉 DIRECT LINK (Expires in 2 Hours): {direct_url}")
-        return direct_url
+        if res_data.get("status") and "data" in res_data:
+            # Direct view URL nikalte hain
+            direct_url = res_data["data"]["file"]["url"]["full"]
+            print(f"👉 DIRECT LINK (Expires in 48 Hours): {direct_url}")
+            return direct_url
+        else:
+            error_info = res_data.get("error", {})
+            print(f"[WARNING] Upload Failed: {error_info.get('message')} (type={error_info.get('type')}, code={error_info.get('code')})")
+            return None
     else:
         print(f"[WARNING] Upload Failed: {response.status_code}")
         return None
@@ -444,7 +452,7 @@ def run():
                     page.screenshot(path=screenshot_path, full_page=True)
                     print(f"[OK] Error screenshot captured: {screenshot_path}", flush=True)
                     
-                    upload_to_tmpfiles(screenshot_path)
+                    upload_to_onlyfiles(screenshot_path)
                 except Exception as screenshot_err:
                     print(f"[WARNING] Could not capture or upload screenshot: {screenshot_err}", flush=True)
             sys.exit(1)
@@ -606,7 +614,7 @@ def run():
                         page.screenshot(path=screenshot_path, full_page=True)
                         print(f"[OK] Error screenshot captured: {screenshot_path}", flush=True)
                         
-                        upload_to_tmpfiles(screenshot_path)
+                        upload_to_onlyfiles(screenshot_path)
                     except Exception as screenshot_err:
                         print(f"[WARNING] Could not capture or upload screenshot: {screenshot_err}", flush=True)
                 sys.exit(1)
@@ -628,7 +636,7 @@ def run():
                 page.screenshot(path=screenshot_path, full_page=True)
                 print(f"[OK] Error screenshot captured: {screenshot_path}", flush=True)
                 
-                upload_to_tmpfiles(screenshot_path)
+                upload_to_onlyfiles(screenshot_path)
             except Exception as screenshot_err:
                 print(f"[WARNING] Could not capture or upload screenshot: {screenshot_err}", flush=True)
         sys.exit(1)
