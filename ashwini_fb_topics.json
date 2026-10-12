@@ -702,7 +702,10 @@
         "posted": true
     },
     {
-        "topic": "Charge sheet vs final report - what happens after police investigation"
+        "topic": "Charge sheet vs final report - what happens after police investigation",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "Res judicata - why the same dispute can't be litigated twice"
