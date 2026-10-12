@@ -1,14 +1,14 @@
 {
-    "title": "Charge sheet vs final report - what happens after police investigation",
-    "p1": "A police investigation ends… but does that always mean someone will face trial?\n\nMany people think the police simply file a charge sheet after every investigation. The reality is more interesting.",
-    "p2": "A charge sheet and a final report are not the same thing. A charge sheet means the police believe there is enough evidence to proceed against the accused. But a final report may also be filed when the investigation does not find sufficient evidence or when the case does not move forward for other reasons.",
-    "p3": "The surprising part: a police report is not the final decision on guilt or innocence. The court reviews the material and decides whether the case should proceed further.\n\nSo, a charge sheet does not mean someone is guilty, and a final report does not always mean the story ends there. The next step depends on the court’s view of the investigation and evidence.",
-    "conclusion": "Before today, did you know that filing of a charge sheet only starts the court process and does not prove guilt? What was your understanding of it?",
+    "title": "Res judicata - why the same dispute can't be litigated twice",
+    "p1": "Can a person keep taking the same case to court again and again until they get a different result?\n\nSurprisingly, the law says no. A dispute that has already been finally decided cannot simply be reopened under a new strategy.",
+    "p2": "Many people think losing a case means they can just file another one with slightly different arguments. But the principle of res judicata prevents this. It means that once a competent court has finally decided an issue between the same parties, that same matter cannot be litigated again.",
+    "p3": "The reason behind this rule is simple: courts need finality. Without it, lawsuits could continue forever, wasting time and resources for everyone involved. The interesting part is that res judicata can apply even when a party tries to present old issues in a new form.\n\nThe takeaway: winning a case is not just about the judgment itself; it can also close the door on future attempts to fight the same battle again.",
+    "conclusion": "Do you think this rule protects people from endless litigation, or could it sometimes prevent someone from getting another chance in court?",
     "keywords": [
-        "CriminalLaw",
+        "ResJudicata",
         "IndianLaw",
         "LegalAwareness",
-        "PoliceInvestigation",
+        "CivilProcedure",
         "LawExplained"
     ]
 }
