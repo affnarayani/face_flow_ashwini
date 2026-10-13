@@ -1,14 +1,14 @@
 {
-    "title": "Res judicata - why the same dispute can't be litigated twice",
-    "p1": "Can a person keep taking the same case to court again and again until they get a different result?\n\nSurprisingly, the law says no. A dispute that has already been finally decided cannot simply be reopened under a new strategy.",
-    "p2": "Many people think losing a case means they can just file another one with slightly different arguments. But the principle of res judicata prevents this. It means that once a competent court has finally decided an issue between the same parties, that same matter cannot be litigated again.",
-    "p3": "The reason behind this rule is simple: courts need finality. Without it, lawsuits could continue forever, wasting time and resources for everyone involved. The interesting part is that res judicata can apply even when a party tries to present old issues in a new form.\n\nThe takeaway: winning a case is not just about the judgment itself; it can also close the door on future attempts to fight the same battle again.",
-    "conclusion": "Do you think this rule protects people from endless litigation, or could it sometimes prevent someone from getting another chance in court?",
+    "title": "Cyber appellate tribunal - does it even function anymore",
+    "p1": "A cyber law body created to protect digital rights… but many people don't even know if it still exists. So, what happened to the Cyber Appellate Tribunal?",
+    "p2": "A common misconception is that every specialised tribunal created by law continues to operate forever. The Cyber Appellate Tribunal was set up under the Information Technology Act to hear appeals against certain decisions of cyber authorities. But over time, vacancies, lack of appointments, and administrative changes affected its functioning. A surprising fact: its role was eventually transferred to the Telecom Disputes Settlement and Appellate Tribunal (TDSAT), meaning the original tribunal stopped functioning as an independent forum.",
+    "p3": "For ordinary users, this matters because cyber disputes involving online platforms, digital transactions, and regulatory decisions need a proper place for appeal. A right without an accessible remedy can become difficult to enforce. The lesson is simple: laws need active institutions behind them, not just words on paper.",
+    "conclusion": "Do you think India needs a dedicated cyber tribunal again, or are existing forums enough to handle digital disputes?",
     "keywords": [
-        "ResJudicata",
+        "CyberLaw",
+        "InformationTechnologyAct",
+        "DigitalRights",
         "IndianLaw",
-        "LegalAwareness",
-        "CivilProcedure",
-        "LawExplained"
+        "LegalAwareness"
     ]
 }

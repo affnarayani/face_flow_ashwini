@@ -714,7 +714,10 @@
         "posted": true
     },
     {
-        "topic": "Cyber appellate tribunal - does it even function anymore"
+        "topic": "Cyber appellate tribunal - does it even function anymore",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "Screenshot evidence - why courts reject most of it"
