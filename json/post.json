@@ -1,14 +1,14 @@
 {
-    "title": "Screenshot evidence - why courts reject most of it",
-    "p1": "A screenshot can look like undeniable proof. But in court, it may be worth far less than you think.\n\nThat WhatsApp message, Instagram conversation, payment confirmation or threatening text you saved? Simply showing it to a judge does not automatically make it admissible evidence.",
-    "p2": "Here is something many people miss: A screenshot can be genuine and still be rejected as evidence.\n\nWhy? Because the court may need to know whether it was altered, where it came from, who actually sent the message and whether the original electronic record can be verified.\n\nUnder Section 63 of the Bharatiya Sakshya Adhiniyam, 2023, electronic records must satisfy specific conditions for admissibility. The prescribed certificate is generally required when a computer output is submitted as evidence.",
-    "p3": "Think about it this way: A screenshot shows what appeared on your screen. It does not necessarily establish who created it or whether the conversation is complete.\n\nA practical tip: Preserve the original device, retain the complete conversation, avoid editing or cropping screenshots, and obtain the required certificate when applicable.\n\nOne small mistake in preserving digital evidence can weaken an otherwise strong case.",
-    "conclusion": "If someone sends you an abusive or threatening WhatsApp message, would you know how to preserve it so that it can actually be used in court?",
+    "title": "Cross-border data transfer rules under the new regime",
+    "p1": "Can an Indian company store customer data on a server in the US or Singapore?\n\nThe answer may surprise you. India's new data protection framework does not automatically prohibit sending personal data overseas.",
+    "p2": "Many assume that the Digital Personal Data Protection (DPDP) Act, 2023 requires all personal data of Indian citizens to remain within India.\n\nThat's not what the new framework says.\n\nSection 16 introduces a different approach: cross-border transfers are generally permitted, but the Central Government can restrict transfers to specifically notified countries or territories.\n\nThis is commonly called a negative-list approach. Instead of approving every country individually, the Government can identify destinations where transfers are restricted.",
+    "p3": "Here's the practical insight: permission to transfer data abroad does not mean businesses are free from responsibility.\n\nRule 15 allows the Government to impose additional conditions concerning access to personal data by foreign governments and entities under their control.\n\nAlso, existing sector-specific restrictions, such as applicable RBI data-localisation requirements, continue to operate.\n\nOne more detail businesses should remember: Section 16 and Rule 15 are scheduled to become effective on 13 May 2027, not immediately upon notification of the 2025 Rules.\n\nBusinesses should review their cloud storage, overseas vendors and data-sharing arrangements before the new provisions take effect.",
+    "conclusion": "Should Indian businesses have the freedom to transfer customer data globally, or should stricter localisation rules protect Indian users? Where would you draw the line?",
     "keywords": [
-        "IndianEvidenceLaw",
-        "DigitalEvidence",
-        "ScreenshotEvidence",
-        "BharatiyaSakshyaAdhiniyam",
-        "LegalAwareness"
+        "DigitalPersonalDataProtection",
+        "DPDPAct2023",
+        "CrossBorderDataTransfer",
+        "DataPrivacy",
+        "IndianCyberLaw"
     ]
 }
