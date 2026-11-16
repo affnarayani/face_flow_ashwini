@@ -1,14 +1,14 @@
 {
-    "title": "Cross-border data transfer rules under the new regime",
-    "p1": "Can an Indian company store customer data on a server in the US or Singapore?\n\nThe answer may surprise you. India's new data protection framework does not automatically prohibit sending personal data overseas.",
-    "p2": "Many assume that the Digital Personal Data Protection (DPDP) Act, 2023 requires all personal data of Indian citizens to remain within India.\n\nThat's not what the new framework says.\n\nSection 16 introduces a different approach: cross-border transfers are generally permitted, but the Central Government can restrict transfers to specifically notified countries or territories.\n\nThis is commonly called a negative-list approach. Instead of approving every country individually, the Government can identify destinations where transfers are restricted.",
-    "p3": "Here's the practical insight: permission to transfer data abroad does not mean businesses are free from responsibility.\n\nRule 15 allows the Government to impose additional conditions concerning access to personal data by foreign governments and entities under their control.\n\nAlso, existing sector-specific restrictions, such as applicable RBI data-localisation requirements, continue to operate.\n\nOne more detail businesses should remember: Section 16 and Rule 15 are scheduled to become effective on 13 May 2027, not immediately upon notification of the 2025 Rules.\n\nBusinesses should review their cloud storage, overseas vendors and data-sharing arrangements before the new provisions take effect.",
-    "conclusion": "Should Indian businesses have the freedom to transfer customer data globally, or should stricter localisation rules protect Indian users? Where would you draw the line?",
+    "title": "Honour killings - legal gaps that still exist",
+    "p1": "What if choosing whom to marry could put your life at risk?\n\nIn India, honour killings expose a disturbing reality: sometimes, the people who claim to protect family honour become the greatest threat to individual freedom.\n\nBut there is a legal issue many people overlook.",
+    "p2": "Many assume that honour killing is covered by one specific, standalone criminal law in India. It isn't.\n\nInstead, perpetrators can be prosecuted under general criminal provisions dealing with murder, conspiracy, assault and related offences.\n\nThe surprising gap? The law punishes the killing, but identifying, preventing and prosecuting the wider network of family or community members who planned, encouraged or facilitated the crime can be challenging.",
+    "p3": "Threats, social boycotts, forced confinement and intimidation may begin long before an actual attack.\n\nYet victims often struggle to access timely protection, especially when pressure comes from their own families or influential community groups.\n\nThe Supreme Court has repeatedly affirmed that adults have the right to choose their life partners. Family approval is not a legal requirement for marriage.\n\nThe practical takeaway: honour-based threats should never be dismissed as private family disputes. Early complaints, protection measures and effective police intervention can save lives.",
+    "conclusion": "Should India introduce a dedicated law specifically addressing honour crimes, including threats, organised intimidation and community involvement, or are stronger enforcement measures under existing laws enough?",
     "keywords": [
-        "DigitalPersonalDataProtection",
-        "DPDPAct2023",
-        "CrossBorderDataTransfer",
-        "DataPrivacy",
-        "IndianCyberLaw"
+        "IndianLegalSystem",
+        "HonourKilling",
+        "RightToChoose",
+        "IndianConstitution",
+        "LegalAwareness"
     ]
 }
