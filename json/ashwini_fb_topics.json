@@ -750,7 +750,10 @@
         "posted": true
     },
     {
-        "topic": "How banks bypass courts entirely to recover bad loans"
+        "topic": "How banks bypass courts entirely to recover bad loans",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "Smart contracts on blockchain - their legal enforceability in India"

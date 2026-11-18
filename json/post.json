@@ -1,14 +1,14 @@
 {
-    "title": "Reservation in promotion - the current legal position after recent rulings",
-    "p1": "Can an employee claim reservation as a matter of right when seeking promotion in government service? The Supreme Court's position may surprise many people: the Constitution permits reservation in promotion, but does not make it compulsory.",
-    "p2": "A common misconception is that reservation in promotion automatically follows reservation at the time of recruitment. That is not the law. Under Article 16(4A), the State has discretion to provide reservation in promotion for Scheduled Castes and Scheduled Tribes, subject to constitutional safeguards. No employee can demand it as an absolute fundamental right.",
-    "p3": "The Supreme Court's decisions in M. Nagaraj, Jarnail Singh and the February 2025 ruling in Amrit Yadav reinforce this framework. Before introducing promotional reservation, the government must collect quantifiable data establishing inadequate representation in the relevant cadre. It must also consider administrative efficiency under Article 335. Importantly, proving the backwardness of SC/ST communities afresh is not required. The government must also respect applicable constitutional limits and ensure that its policy has a sound factual basis. Recent judicial scrutiny continues to emphasise that promotional benefits cannot be granted through arbitrary executive decisions.",
-    "conclusion": "The real question is this: should reservation in promotion be primarily guided by social justice, or should measurable representation and administrative efficiency determine its extent? Where should the law draw the line? Share your perspective.",
+    "title": "How banks bypass courts entirely to recover bad loans",
+    "p1": "What if a bank could take possession of your mortgaged property without first filing a regular recovery suit in court?\n\nIt sounds surprising, but Indian banking law allows this in certain circumstances.",
+    "p2": "Most people assume banks must approach a court every time a borrower defaults. That's not entirely true.\n\nUnder the SARFAESI Act, 2002, eligible banks and financial institutions can enforce certain secured loans without first obtaining a court decree.",
+    "p3": "Here's how it works.\n\nWhen a borrower defaults and the account is classified as a Non-Performing Asset (NPA), the bank can issue a 60-day demand notice under Section 13(2).\n\nIf the borrower fails to repay, the bank may take measures under Section 13(4), including taking possession of secured assets and arranging their sale, subject to legal requirements.\n\nBut here's the part many borrowers miss: bypassing the initial court process does not mean bypassing legal scrutiny.\n\nA borrower can challenge the bank's measures before the Debt Recovery Tribunal (DRT) under Section 17.\n\nThe bank gets a faster recovery route, but the borrower retains a legal remedy.",
+    "conclusion": "Do you think banks should have the power to take possession of secured property without first obtaining a court order, or should prior judicial approval always be mandatory?",
     "keywords": [
-        "ReservationInPromotion",
-        "ConstitutionalLaw",
-        "SupremeCourtJudgments",
-        "ServiceLaw",
-        "SocialJustice"
+        "SARFAESIAct",
+        "BankingLaw",
+        "DebtRecovery",
+        "CreditorRights",
+        "IndianBanking"
     ]
 }
