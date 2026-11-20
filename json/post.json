@@ -1,14 +1,14 @@
 {
-    "title": "How banks bypass courts entirely to recover bad loans",
-    "p1": "What if a bank could take possession of your mortgaged property without first filing a regular recovery suit in court?\n\nIt sounds surprising, but Indian banking law allows this in certain circumstances.",
-    "p2": "Most people assume banks must approach a court every time a borrower defaults. That's not entirely true.\n\nUnder the SARFAESI Act, 2002, eligible banks and financial institutions can enforce certain secured loans without first obtaining a court decree.",
-    "p3": "Here's how it works.\n\nWhen a borrower defaults and the account is classified as a Non-Performing Asset (NPA), the bank can issue a 60-day demand notice under Section 13(2).\n\nIf the borrower fails to repay, the bank may take measures under Section 13(4), including taking possession of secured assets and arranging their sale, subject to legal requirements.\n\nBut here's the part many borrowers miss: bypassing the initial court process does not mean bypassing legal scrutiny.\n\nA borrower can challenge the bank's measures before the Debt Recovery Tribunal (DRT) under Section 17.\n\nThe bank gets a faster recovery route, but the borrower retains a legal remedy.",
-    "conclusion": "Do you think banks should have the power to take possession of secured property without first obtaining a court order, or should prior judicial approval always be mandatory?",
+    "title": "Smart contracts on blockchain - their legal enforceability in India",
+    "p1": "Can a contract written in computer code actually hold up in an Indian court?\n\nSurprisingly, the answer is yes — but there is a catch.",
+    "p2": "Many people assume that smart contracts are automatically legally binding because blockchain records cannot easily be altered. That's a misconception.\n\nA smart contract is essentially a program that automatically executes an agreement when certain conditions are met. For example, payment can be released automatically once a delivery is confirmed.\n\nIn India, the Information Technology Act, 2000 recognises electronic records and electronic contracts. Section 10A specifically confirms that contracts cannot be denied enforceability merely because they were formed electronically.",
+    "p3": "But here's the detail many people overlook: blockchain technology alone does not make an agreement legally enforceable.\n\nThe agreement must still satisfy the Indian Contract Act, 1872, including essentials such as free consent, lawful consideration, lawful purpose and competent parties.\n\nThere must also be clarity about what happens when the code fails, a party breaches the agreement, or a dispute arises.\n\nPractical takeaway: A smart contract can automate performance, but good legal drafting creates enforceability. Ideally, combine clear written terms with reliable blockchain execution.",
+    "conclusion": "If a smart contract executes automatically but one party claims the underlying agreement was invalid, should Indian courts prioritise the blockchain code or the actual legal agreement? What do you think?",
     "keywords": [
-        "SARFAESIAct",
-        "BankingLaw",
-        "DebtRecovery",
-        "CreditorRights",
-        "IndianBanking"
+        "BlockchainTechnology",
+        "SmartContracts",
+        "IndianLaw",
+        "LegalTechnology",
+        "DigitalContracts"
     ]
 }
