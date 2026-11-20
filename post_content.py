@@ -249,8 +249,8 @@ def run():
         print("[STEP] Clicking Post...", flush=True)
         time.sleep(random.randint(8, 15))
 
-        btn = resolve_locator(page, PLATFORM, "facebook_not_now_button", "Dismiss Post Post layout prompt")
-        if btn.count():
+        btn = resolve_locator(page, PLATFORM, "facebook_not_now_button", "Dismiss Post Post layout prompt", optional=True)
+        if btn is not None and btn.count():
             btn.first.click()
             print("[STEP] Dismissed Post Post layout prompt...", flush=True)
             time.sleep(random.randint(4, 8))
