@@ -1,14 +1,14 @@
 {
-    "title": "Smart contracts on blockchain - their legal enforceability in India",
-    "p1": "Can a contract written in computer code actually hold up in an Indian court?\n\nSurprisingly, the answer is yes — but there is a catch.",
-    "p2": "Many people assume that smart contracts are automatically legally binding because blockchain records cannot easily be altered. That's a misconception.\n\nA smart contract is essentially a program that automatically executes an agreement when certain conditions are met. For example, payment can be released automatically once a delivery is confirmed.\n\nIn India, the Information Technology Act, 2000 recognises electronic records and electronic contracts. Section 10A specifically confirms that contracts cannot be denied enforceability merely because they were formed electronically.",
-    "p3": "But here's the detail many people overlook: blockchain technology alone does not make an agreement legally enforceable.\n\nThe agreement must still satisfy the Indian Contract Act, 1872, including essentials such as free consent, lawful consideration, lawful purpose and competent parties.\n\nThere must also be clarity about what happens when the code fails, a party breaches the agreement, or a dispute arises.\n\nPractical takeaway: A smart contract can automate performance, but good legal drafting creates enforceability. Ideally, combine clear written terms with reliable blockchain execution.",
-    "conclusion": "If a smart contract executes automatically but one party claims the underlying agreement was invalid, should Indian courts prioritise the blockchain code or the actual legal agreement? What do you think?",
+    "title": "Income tax reassessment - the time limits after recent legal changes",
+    "p1": "Can the Income Tax Department reopen your tax assessment even after several years?\n\nYes, but there is a legal deadline. And recent changes have significantly altered the rules that taxpayers and professionals need to know.",
+    "p2": "A common misconception is that the tax department can reopen any old assessment whenever it discovers a discrepancy.\n\nThat is not correct. The deadline depends on the applicable law, the relevant tax year and the amount of income believed to have escaped assessment.\n\nUnder the Income-tax Act, 1961, amended rules effective from September 1, 2024, generally allow reassessment notices within 3 years and 3 months. This can extend to 5 years and 3 months where escaped income is ₹50 lakh or more.",
+    "p3": "There is another major development: the Income-tax Act, 2025, came into effect on April 1, 2026.\n\nFor tax years beginning from April 1, 2026, the new rules generally allow 4 years and 3 months for reassessment notices, extending to 6 years and 3 months where escaped income is ₹50 lakh or more.\n\nThe crucial takeaway? Earlier tax years generally remain governed by the old Act, while new tax years follow the 2025 Act. The applicable deadline must be checked before accepting a reassessment notice as valid.",
+    "conclusion": "Have you ever received an income tax reassessment notice for an older financial year? Do you think the revised time limits offer taxpayers better protection? Share your thoughts.",
     "keywords": [
-        "BlockchainTechnology",
-        "SmartContracts",
-        "IndianLaw",
-        "LegalTechnology",
-        "DigitalContracts"
+        "IncomeTaxIndia",
+        "TaxReassessment",
+        "IncomeTaxAct2025",
+        "TaxpayerRights",
+        "IndianTaxLaw"
     ]
 }

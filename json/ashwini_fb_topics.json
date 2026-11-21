@@ -762,7 +762,10 @@
         "posted": true
     },
     {
-        "topic": "Income tax reassessment - the time limits after recent legal changes"
+        "topic": "Income tax reassessment - the time limits after recent legal changes",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "Dark web crimes - the jurisdiction challenge for Indian police"
