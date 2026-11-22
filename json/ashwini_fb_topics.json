@@ -768,7 +768,10 @@
         "posted": true
     },
     {
-        "topic": "Dark web crimes - the jurisdiction challenge for Indian police"
+        "topic": "Dark web crimes - the jurisdiction challenge for Indian police",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "Compounding of offences - which cases can genuinely be settled"
