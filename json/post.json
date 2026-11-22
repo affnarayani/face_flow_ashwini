@@ -1,14 +1,14 @@
 {
-    "title": "Dark web crimes - the jurisdiction challenge for Indian police",
-    "p1": "What happens when a cybercriminal sitting thousands of kilometres away targets someone in India?\n\nWhich country's police should investigate? And under whose laws should the offender be prosecuted?\n\nThis is one of the biggest challenges Indian law enforcement faces when dealing with dark web crimes.",
-    "p2": "A common misconception is that crimes committed on the dark web are beyond the reach of Indian police.\n\nThat's not entirely true.\n\nThe real difficulty is jurisdiction — determining which country's authorities have the legal power to investigate, collect evidence, and prosecute an offender.\n\nA criminal may operate from one country, use servers located in another, receive payments through cryptocurrency, and target victims in India.",
-    "p3": "This creates a complicated investigation involving multiple legal systems and international cooperation.\n\nIndian police can investigate offences affecting victims in India under applicable Indian laws, including the Information Technology Act, 2000. However, identifying an offender, obtaining digital evidence from foreign platforms, and securing cooperation from overseas authorities can take considerable time.\n\nHere's the surprising part: identifying where a crime happened online can be just as challenging as identifying who committed it.\n\nFor investigators, international cooperation is often as important as technical expertise.",
-    "conclusion": "Should India strengthen international cybercrime cooperation to make dark web investigations faster and more effective? Or should stronger domestic investigative powers be the priority? Share your perspective.",
+    "title": "Compounding of offences - which cases can genuinely be settled",
+    "p1": "Can a criminal case simply end because the accused and the complainant have settled their differences?\n\nSurprisingly, the answer is yes in some cases — but not all.",
+    "p2": "Many people assume that once both parties agree to compromise, the criminal proceedings can automatically stop. That's a common misconception.\n\nUnder Section 320 of the Code of Criminal Procedure (CrPC), certain offences can be compounded, meaning the law allows the parties to settle the matter, subject to specific conditions.",
+    "p3": "For example, certain cases involving simple hurt, wrongful restraint, defamation and minor property-related disputes may be compounded.\n\nBut here's the catch: some offences require permission from the court, while others can be settled directly by the person affected.\n\nSerious offences, particularly those involving grave violence or significant public harm, generally cannot be settled merely because the parties have reached an agreement.\n\nAlso, compounding is different from quashing a criminal case. The latter involves the High Court exercising its inherent powers under Section 482 CrPC (now Section 528 of the BNSS).\n\nThe practical takeaway? A private settlement does not automatically erase criminal liability. The nature of the offence and the applicable legal provision matter.",
+    "conclusion": "Should parties be allowed to settle more criminal cases privately, or should certain offences always remain beyond compromise? What is your view?",
     "keywords": [
-        "CyberCrime",
-        "DarkWeb",
-        "IndianCyberLaw",
-        "CyberSecurity",
-        "Jurisdiction"
+        "CompoundingOfOffences",
+        "CriminalLaw",
+        "IndianLegalSystem",
+        "CriminalJustice",
+        "LegalAwareness"
     ]
 }
