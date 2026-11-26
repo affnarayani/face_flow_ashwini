@@ -804,7 +804,10 @@
         "posted": true
     },
     {
-        "topic": "Misleading advertisement complaints - the regulator's role explained"
+        "topic": "Misleading advertisement complaints - the regulator's role explained",
+        "content_generated": true,
+        "image_generated": false,
+        "posted": false
     },
     {
         "topic": "Institutional vs ad-hoc arbitration - what clients should actually choose"
